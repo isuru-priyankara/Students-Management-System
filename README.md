@@ -2,12 +2,13 @@
 PHP(php crud operation using mysql)
 
 How to Make Simple CRUD in PHP and MySQL
-Single Query Execution.
-Multi Queries Execution.
-CRUD in PHP and MySQL With Prepared Statements.
-Select Query Execution.
-Update Query Using Prepared Statement.
-Delete Query Using Prepared Statement.
+
+1)Single Query Execution.
+2)Multi Queries Execution.
+3)CRUD in PHP and MySQL With Prepared Statements.
+4)Select Query Execution.
+5)Update Query Using Prepared Statement.
+6)Delete Query Using Prepared Statement.
 
 ![1](https://user-images.githubusercontent.com/121779329/216777244-f71b87e9-9948-478c-b729-cad771c91d0a.jpg)
 
